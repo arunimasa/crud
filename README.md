@@ -11,9 +11,13 @@ Delete: Remove records from the system.
 Tools and Technologies :
 
 Programming Language: C#
+
 User Interface: Windows Forms (WinForms)
+
 Database: Microsoft SQL Server
+
 IDE: Visual Studio
+
 Project Workflow:
 1. User Interface (Windows Forms)
 Main Form: Contains buttons for Create, Edit, Read, Update, Delete, and Refresh operations, along with a DataGridView to display records.
